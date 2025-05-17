@@ -1,4 +1,6 @@
 # Portfólio Fullstack - Capacita BR
+## OBS:
+Infelizmente, devido às limitações do GitHub pelo celular, não consigo colocar uma pasta para as imagens e por isso estão soltas pelo repositório.
 
 ## O que é o projeto  🚀
 
